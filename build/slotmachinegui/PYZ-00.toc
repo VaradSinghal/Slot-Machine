@@ -1,0 +1,581 @@
+('D:\\Projects\\Slot Machine\\build\\slotmachinegui\\PYZ-00.pyz',
+ [('PyQt5',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mysql',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.abstracts',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\abstracts.py',
+   'PYMODULE'),
+  ('mysql.connector.authentication',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\authentication.py',
+   'PYMODULE'),
+  ('mysql.connector.charsets',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\charsets.py',
+   'PYMODULE'),
+  ('mysql.connector.connection',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\connection.py',
+   'PYMODULE'),
+  ('mysql.connector.connection_cext',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\connection_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.constants',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.conversion',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\conversion.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\cursor.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor_cext',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\cursor_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.custom_types',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\custom_types.py',
+   'PYMODULE'),
+  ('mysql.connector.dbapi',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\dbapi.py',
+   'PYMODULE'),
+  ('mysql.connector.errorcode',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\errorcode.py',
+   'PYMODULE'),
+  ('mysql.connector.errors',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\errors.py',
+   'PYMODULE'),
+  ('mysql.connector.locales',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\locales\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.logger',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\logger.py',
+   'PYMODULE'),
+  ('mysql.connector.network',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\network.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.constants',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.context_propagation',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\context_propagation.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.instrumentation',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\instrumentation.py',
+   'PYMODULE'),
+  ('mysql.connector.optionfiles',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\optionfiles.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\plugins\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins.caching_sha2_password',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\plugins\\caching_sha2_password.py',
+   'PYMODULE'),
+  ('mysql.connector.pooling',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\pooling.py',
+   'PYMODULE'),
+  ('mysql.connector.protocol',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\protocol.py',
+   'PYMODULE'),
+  ('mysql.connector.tls_ciphers',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\tls_ciphers.py',
+   'PYMODULE'),
+  ('mysql.connector.types',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\types.py',
+   'PYMODULE'),
+  ('mysql.connector.utils',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\utils.py',
+   'PYMODULE'),
+  ('mysql.connector.version',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\version.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Varad '
+   'Singhal\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])
